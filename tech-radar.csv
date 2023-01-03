@@ -1,2 +1,5 @@
 name,ring,quadrant,isNew,description
 React Native,adopt,test,false,wahtever
+React Native2,adopt2,test3,false,wahtever2
+React Native3,adopt3,test2,true,wahtevee
+React Native4,adopt4,test4,false,wahtever3
