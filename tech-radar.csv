@@ -1,7 +1,7 @@
 name,ring,quadrant,isNew,description
+TypeScript,use,languages,FALSE,It's pretty great.
 JSON,use if cant avoid,languages,FALSE,JSON is trash.
 JSON5,use,languages,FALSE,JSON5 is what JSON should have been.
-TypeScript,use,languages,FALSE,It's pretty great.
 React Native,use,libraries & frameworks,FALSE,Probably the best way to make a mobile app for me today.
 CircleCI,use if cant avoid,tools,FALSE,Pretty decent CI.
 Cloudflare,use,tools,TRUE
