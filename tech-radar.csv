@@ -1,7 +1,9 @@
 name,ring,quadrant,isNew,description
-JSON,use if cant avoid,languages & frameworks,FALSE,JSON is trash.
-JSON5,use,languages & frameworks,FALSE,JSON5 is what JSON should have been.
-React Native,use,languages & frameworks,FALSE,Probably the best way to make a mobile app for me today.
+JSON,use if cant avoid,languages,FALSE,JSON is trash.
+JSON5,use,languages,FALSE,JSON5 is what JSON should have been.
+TypeScript,use,languages,FALSE,It's pretty great.
+React Native,use,libraries & frameworks,FALSE,Probably the best way to make a mobile app for me today.
 CircleCI,use if cant avoid,tools,FALSE,Pretty decent CI.
 Cloudflare,use,tools,TRUE
-react-native-paper,rejected,tools,false,it doesnt offer enough benefit.
+react-native-paper,rejected,tools,false,It doesn't offer enough benefit.
+Something,use,extra quad,false,It's a filler.
