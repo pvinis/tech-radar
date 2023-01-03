@@ -1,5 +1,6 @@
 name,ring,quadrant,isNew,description
-React Native,adopt,test,false,wahtever
-React Native2,adopt2,test3,false,wahtever2
-React Native3,adopt3,test2,true,wahtevee
-React Native4,adopt4,test4,false,wahtever3
+GraphQL Stitching,hold,techniques,TRUE,"We prefer to connect to upstream REST APIs instead of GraphQL APIs."
+GraphQL,adopt,languages & frameworks,TRUE,"Appreciated for its flexibility and efficiency for clients."
+JSON,adopt,languages & frameworks,FALSE,"We prefer JSON over most other data formats for its self-describing properties."
+Rails,adopt,languages & frameworks,FALSE,
+React Native,adopt,languages & frameworks,FALSE,"New iOS work should use React Native. See also Objective-C."
