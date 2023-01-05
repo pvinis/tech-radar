@@ -5,8 +5,8 @@ JSON5,use,languages,FALSE,JSON5 is what JSON should have been.
 React Native,use,libraries & frameworks,FALSE,Probably the best way to make a mobile app for me today.
 CircleCI,use if cant avoid,tools,FALSE,Pretty decent CI.
 Cloudflare,use,tools,TRUE
+MonoFocus,trial,apps,true,App like "One Thing" but supports Things and Jira and GitHub as sources of tasks.
 react-native-paper,rejected,tools,false,It doesn't offer enough benefit.
 One Thing,use,apps,false,Great app to keep my current task on the menubar.
-MonoFocus,trial,apps,true,App like "One Thing" but supports Things and Jira and GitHub as sources of tasks.
 Beeper,use,apps,false,Great messenger app, that supports fb messenger, whatsapp, telegram, signal, instagram, twitter, etc.
 Firefox,use,apps,Give me Firefox or death. There has been nothing that came close to replacing it.
